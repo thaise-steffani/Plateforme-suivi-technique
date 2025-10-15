@@ -1,12 +1,12 @@
-# 📊 Dashboard de Suivi de Projets Techniques
+# Dashboard de Suivi de Projets Techniques
 
 Application web interactive pour le suivi et la visualisation de projets techniques multi-sites.
 
-## 🎯 Objectif
+## Objectif
 
 Ce projet démontre la capacité à créer des outils de pilotage pour la gestion de projets techniques, similaires aux besoins de déploiement dans le secteur IT.
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - **KPIs en temps réel** : Nombre de projets, taux de complétion, projets en retard, avancement moyen, satisfaction client
 - **Visualisations interactives** :
@@ -18,7 +18,7 @@ Ce projet démontre la capacité à créer des outils de pilotage pour la gestio
 - **Export de données** : Téléchargement CSV des données filtrées
 - **Interface responsive** : Adaptation mobile et desktop
 
-## 🛠️ Technologies Utilisées
+## Technologies Utilisées
 
 - **Python 3.9+**
 - **Streamlit** : Framework web pour data apps
@@ -26,7 +26,7 @@ Ce projet démontre la capacité à créer des outils de pilotage pour la gestio
 - **Plotly** : Visualisations interactives
 - **Openpyxl** : Lecture de fichiers Excel
 
-## 📦 Installation
+## Installation
 
 ### Prérequis
 - Python 3.9 ou supérieur
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 - Placez votre fichier `projets.xlsx` dans le dossier `data/`
 - Ou utilisez le fichier d'exemple fourni
 
-## 🚀 Utilisation
+## Utilisation
 
 ### Lancement local
 
