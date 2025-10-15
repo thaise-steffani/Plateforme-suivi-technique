@@ -2,11 +2,3 @@ streamlit
 pandas
 plotly
 openpyxl
-```
-
-**OU** si ça ne fonctionne pas, essayez avec des versions plus récentes :
-```
-streamlit>=1.28.0
-pandas>=2.0.0
-plotly>=5.17.0
-openpyxl>=3.1.0
